@@ -1,7 +1,7 @@
-package com.didichuxing.map.poi.web.controller.exception;
-import com.didichuxing.map.poi.web.datas.result.Result;
-import com.didichuxing.map.poi.web.datas.result.ResultCode;
-import com.didichuxing.map.poi.web.datas.result.ResultUtil;
+package com.abiao.template.controller.exception;
+import com.abiao.template.datas.result.Result;
+import com.abiao.template.datas.result.ResultCode;
+import com.abiao.template.datas.result.ResultUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.MissingServletRequestParameterException;
 import org.springframework.web.bind.annotation.ControllerAdvice;

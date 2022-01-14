@@ -1,5 +1,5 @@
-package com.didichuxing.map.poi.web.controller;
-import com.didichuxing.map.poi.web.datas.result.ResultUtil;
+package com.abiao.template.controller;
+import com.abiao.template.datas.result.ResultUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

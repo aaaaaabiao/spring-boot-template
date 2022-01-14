@@ -1,4 +1,4 @@
-package com.didichuxing.map.poi.web.datas.result;
+package com.abiao.template.datas.result;
 
 /**
  * @author hubiao

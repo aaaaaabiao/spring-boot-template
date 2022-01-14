@@ -1,8 +1,8 @@
-package com.didichuxing.map.poi.web.interceptor;
+package com.abiao.template.interceptor;
 
 
+import com.abiao.template.util.ServletUtil;
 import com.alibaba.fastjson.JSONObject;
-import com.didichuxing.map.poi.web.util.ServletUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;

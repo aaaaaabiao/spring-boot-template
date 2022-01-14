@@ -1,7 +1,7 @@
-package com.didichuxing.map.poi.web.config;
+package com.abiao.template.config;
 
 
-import com.didichuxing.map.poi.web.interceptor.MetricInterceptor;
+import com.abiao.template.interceptor.MetricInterceptor;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;

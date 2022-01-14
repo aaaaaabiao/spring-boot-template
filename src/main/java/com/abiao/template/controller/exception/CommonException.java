@@ -1,7 +1,7 @@
-package com.didichuxing.map.poi.web.controller.exception;
+package com.abiao.template.controller.exception;
 
 
-import com.didichuxing.map.poi.web.datas.result.ResultCode;
+import com.abiao.template.datas.result.ResultCode;
 import lombok.Getter;
 import lombok.Setter;
 
